@@ -20,3 +20,7 @@ read -r first_name last_name
 
 # TODO: Replace this line with your implementation
 echo "${last_name^^}, ${first_name^}"
+echo "budi santoso" | ./problem1/formatter
+echo "nabila ardianti" | ./problem1/formatter
+echo "faradiza lovy" | ./problem1/formatter
+echo "ahwa maulana" | ./problem1/formatter
